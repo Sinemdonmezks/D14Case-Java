@@ -3,6 +3,7 @@
 Spring ile Geliştirdiğim React Projemin Backendi
 
 Database : jdbc:postgresql://34.173.207.70:5533/D14CaseDB
+Localde postgreSql kullanacaksanız :jdbc:postgresql://localhost:5432/D14CaseDB
 
 server: port: 9095
 
